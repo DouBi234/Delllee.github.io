@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://doubi234.github.io/Delllee.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-05-02T02:29:04.379Z</updated>
+    <updated>2020-05-02T02:36:18.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://doubi234.github.io/Delllee.github.io/"/>
     <link rel="self" href="https://doubi234.github.io/Delllee.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://doubi234.github.io/Delllee.github.io/images/avatar.png</logo>
     <icon>https://doubi234.github.io/Delllee.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Girdea测试标题]]></title>
+        <id>https://doubi234.github.io/Delllee.github.io/post/girdea-ce-shi-biao-ti/</id>
+        <link href="https://doubi234.github.io/Delllee.github.io/post/girdea-ce-shi-biao-ti/">
+        </link>
+        <updated>2020-05-02T02:32:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>1.携带手机卡开户人有效身份证件到达营业厅;<br>
+2.向工作人员说明办理手机卡注销业务,报注销手机号;<br>
+3.工作人员查看手机号注册信息与本人身份证进行核实后,打印当前话费单据;<br>
+4.用户缴清欠费,在确认注销业务单签字即可完成注销手续。<br>
+查看更多步骤...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1.携带手机卡开户人有效身份证件到达营业厅;<br>
+2.向工作人员说明办理手机卡注销业务,报注销手机号;<br>
+3.工作人员查看手机号注册信息与本人身份证进行核实后,打印当前话费单据;<br>
+4.用户缴清欠费,在确认注销业务单签字即可完成注销手续。<br>
+查看更多步骤...</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://doubi234.github.io/Delllee.github.io/post/hello-gridea/</id>
